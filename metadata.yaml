@@ -1,0 +1,25 @@
+_repo: Man-Size_10404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: Cover -- Contents.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: Man-Size
+url: http://www.gutenberg.org/ebooks/10404
